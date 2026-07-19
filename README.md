@@ -140,9 +140,8 @@ http://localhost:8501
 
 # 📸 Application Preview
 
-<p align="center">
-<img src="screenshots/home.png" width="100%">
-</p>
+<img width="1904" height="912" alt="image" src="https://github.com/user-attachments/assets/09b0806e-b8a9-4a30-b845-58c12f8ebf7b" />
+
 
 The home page provides an overview of the application, project information, dataset statistics, and quick navigation to all available modules.
 
